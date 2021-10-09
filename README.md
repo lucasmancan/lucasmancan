@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-I'm a software Engineer with experience in modern application architectures and programming tools such as Java, Spring Framework, Node.js and Angular 2+. Proactive, self-taught and always aiming to improve products and ideas. 
+I'm a brazilian software Engineer with experience in modern application architectures and programming tools.
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasmancan&show_icons=true)
+##### BIO
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmancan&hide=TeX&layout=compact)
+- 🏢 I'm currently working at **Itaú Unibanco**
+- ⚙️ I use daily: `.kt`, `.java`, `.html`, `.css`
+- 💬 Ping me about **java**, **hibernate**, **spring**, **kotlin**, **angular**
+- 📫 Reach me: [linkedin.com/in/lucasmancan/](https://www.linkedin.com/in/lucasmancan/)
+
